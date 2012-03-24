@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<package xmlns='http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd'>
+    <metadata>
+        <id>TaskExtensions</id>
+        <title/>
+        <version>$version$</version>
+        <authors>Prabir Shrestha</authors>
+        <description>Helper extension methods for Task Parallel Library (TPL)</description>
+        <language>en-US</language>
+        <projectUrl>https://github.com/facebook-csharp-sdk/TaskExtensions</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>TPL Task Parallel Library</tags>
+    </metadata>
+	<files>
+		<file src="..\Working\TaskExtensions.cs.pp" target = "content\TaskExtensions.cs.pp" />
+	</files>
+</package>
