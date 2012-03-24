@@ -5,7 +5,7 @@ namespace TaskExtensions
     using System.Collections.Generic;
     using System.Threading.Tasks;
 
-    public static class TaskExtensions
+    internal static class TaskExtensions
     {
         public static Task Then(this Task first, Action next)
         {
