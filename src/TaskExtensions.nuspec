@@ -7,7 +7,7 @@
         <authors>Prabir Shrestha</authors>
         <description>Helper extension methods for Task Parallel Library (TPL)</description>
         <language>en-US</language>
-        <projectUrl>https://github.com/facebook-csharp-sdk/TaskExtensions</projectUrl>
+        <projectUrl>https://github.com/prabirshrestha/TaskExtensions</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <tags>TPL Task Parallel Library</tags>
     </metadata>
